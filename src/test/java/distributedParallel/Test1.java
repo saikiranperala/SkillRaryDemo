@@ -1,6 +1,7 @@
 package distributedParallel;
 
 import org.testng.annotations.Test;
+//this test is successful
 
 public class Test1 {
 	@Test
